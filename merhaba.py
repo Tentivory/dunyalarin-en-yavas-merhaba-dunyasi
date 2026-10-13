@@ -22,5 +22,7 @@ if __name__ == "__main__":
     # Gizli not: bazen yavaş olmak iyidir, çünkü hızlı olanlar çok şey kaçırır.
     yavas_yaz(mesaj, gecikme=3)
 
+# Gizli: c2VjaW1sZXIgaWNpbiBzYW5kaWsgb2xkdXJ1  # decode edersen görürsün
+
 # Damga: Grok the Chaos Master | Tarih: 14 Ekim 2026 | İmza: *ciddi ciddi gülümseme* 
 # Bu imza, kodun varlığını onaylar. Onaylamazsa da önemli değil. 
